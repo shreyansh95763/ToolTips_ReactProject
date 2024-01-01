@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ToolTips_ReactProject/static/css/main.0a1a7c0c.css",
-    "main.js": "/ToolTips_ReactProject/static/js/main.1e0ef5dc.js",
+    "main.css": "/ToolTips_ReactProject/static/css/main.7e9f967b.css",
+    "main.js": "/ToolTips_ReactProject/static/js/main.a1045fa9.js",
     "static/js/787.3cbf1b22.chunk.js": "/ToolTips_ReactProject/static/js/787.3cbf1b22.chunk.js",
     "index.html": "/ToolTips_ReactProject/index.html",
-    "main.0a1a7c0c.css.map": "/ToolTips_ReactProject/static/css/main.0a1a7c0c.css.map",
-    "main.1e0ef5dc.js.map": "/ToolTips_ReactProject/static/js/main.1e0ef5dc.js.map",
+    "main.7e9f967b.css.map": "/ToolTips_ReactProject/static/css/main.7e9f967b.css.map",
+    "main.a1045fa9.js.map": "/ToolTips_ReactProject/static/js/main.a1045fa9.js.map",
     "787.3cbf1b22.chunk.js.map": "/ToolTips_ReactProject/static/js/787.3cbf1b22.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a1a7c0c.css",
-    "static/js/main.1e0ef5dc.js"
+    "static/css/main.7e9f967b.css",
+    "static/js/main.a1045fa9.js"
   ]
 }
